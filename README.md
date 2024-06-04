@@ -1,2 +1,2 @@
 # cv
-my personal site by only using html
+my personal site
