@@ -1,0 +1,25 @@
+/********************Tag Selector********************/
+body{
+    background-color: #A7E6FF;
+}
+
+h1{
+    color: #615EFC;
+}
+
+h3{
+    color: #615EFC;
+}
+
+hr{
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+
+/********************Class Selector********************/
+.circular{
+    border-radius: 100%;
+}
